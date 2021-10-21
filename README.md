@@ -1,4 +1,5 @@
 # demonstra-o-
 Testes disponíveis 
 #aplicando
-conhecimentode aprendizado 
+conhecimentode aprendizagem 
+## resolver problemas
