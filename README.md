@@ -1,2 +1,4 @@
 # demonstra-o-
-Testes funcionais 
+Testes disponíveis 
+#aplicando
+conhecimentode aprendizado 
